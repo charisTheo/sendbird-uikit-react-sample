@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.sendbird-channel-list {
+  float: left;
+}
+
+.sendbird-conversation {
+  height: 100%;
+}
+
+.sendbird-channel-settings  {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.leave-button {
+  position: fixed;
+  top: 10px;
+}
